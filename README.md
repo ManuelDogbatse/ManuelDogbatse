@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi, I'm Manuel!
 
-<!--
-**ManuelDogbatse/ManuelDogbatse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring cybersecurity analyst with an educational background in Computer Science and software development.
 
-Here are some ideas to get you started:
+## 🔐 My Cybersecurity Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux:
+
+  - [Self-hosting Bitwarden in LAN using Vaultwarden Backend on Raspberry Pi](https://github.com/ManuelDogbatse/vaultwarden_on_raspberry_pi)
+
+- Windows:
+
+  - [Administering Windows Accounts in LAN with Active Directory using Virtual Machines](https://github.com/ManuelDogbatse/active_directory)
+
+## 🗣️ Get in Touch
+[<img align="left" alt="Manuel Dogbatse LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />](https://linkedin.com/in/manuel-dogbatse)
