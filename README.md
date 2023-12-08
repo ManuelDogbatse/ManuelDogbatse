@@ -12,5 +12,9 @@ I am an aspiring cybersecurity analyst with an educational background in Compute
 
   - [Administering Windows Accounts in LAN with Active Directory using Virtual Machines](https://github.com/ManuelDogbatse/active_directory)
 
+- Python:
+
+    - [CLI Password Manager](https://github.com/ManuelDogbatse/password_manager)
+
 ## 🗣️ Get in Touch
 [<img align="left" alt="Manuel Dogbatse LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />](https://linkedin.com/in/manuel-dogbatse)
