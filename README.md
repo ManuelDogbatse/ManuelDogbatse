@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manuel!
 
-I am an aspiring cybersecurity analyst with an educational background in Computer Science and software development.
+I am an aspiring cybersecurity engineer with an educational background in Computer Science and software development.
 
 ## 🔐 My Cybersecurity Projects
 
