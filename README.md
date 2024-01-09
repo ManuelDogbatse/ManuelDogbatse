@@ -4,17 +4,19 @@ I am an aspiring cybersecurity engineer with an educational background in Comput
 
 ## 🔐 My Cybersecurity Projects
 
-- Linux:
+- Networking with Linux:
 
-  - [Self-hosting Bitwarden in LAN using Vaultwarden Backend on Raspberry Pi](https://github.com/ManuelDogbatse/vaultwarden_on_raspberry_pi)
+  - [Self-hosting Password Manager in LAN using Raspberry Pi](https://github.com/ManuelDogbatse/vaultwarden_on_raspberry_pi)
 
-- Windows:
+- Networking with Windows:
 
-  - [Administering Windows Accounts in LAN with Active Directory using Virtual Machines](https://github.com/ManuelDogbatse/active_directory)
+  - [Active Directory Home Lab](https://github.com/ManuelDogbatse/active_directory)
 
-- Python:
+- Security Applications:
 
-    - [CLI Password Manager](https://github.com/ManuelDogbatse/password_manager)
+  - [SSH Honeypot](https://githum.com/ManuelDogbatse/ssh_honeypot)
+
+  - [CLI Password Manager](https://github.com/ManuelDogbatse/password_manager)
 
 ## 🗣️ Get in Touch
 [<img align="left" alt="Manuel Dogbatse LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />](https://linkedin.com/in/manuel-dogbatse)
