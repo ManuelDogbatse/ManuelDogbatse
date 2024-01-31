@@ -14,7 +14,7 @@ I am an aspiring cybersecurity engineer with an educational background in Comput
 
 - Security Applications:
 
-  - [SSH Honeypot](https://githum.com/ManuelDogbatse/ssh_honeypot)
+  - [SSH Honeypot](https://github.com/ManuelDogbatse/ssh_honeypot)
 
   - [CLI Password Manager](https://github.com/ManuelDogbatse/password_manager)
 
