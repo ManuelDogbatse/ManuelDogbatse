@@ -4,11 +4,13 @@ I am an aspiring cybersecurity engineer with an educational background in Comput
 
 ## 🔐 My Cybersecurity Projects
 
+- Cloud Computing:
+
+  - [Honeypot hosted in Azure and monitored with Microsoft Sentinel](https://github.com/ManuelDogbatse/azure_sentinel_honeypot)
+
 - Networking with Linux:
 
   - [Self-hosting Password Manager in LAN using Raspberry Pi](https://github.com/ManuelDogbatse/vaultwarden_on_raspberry_pi)
- 
-  - [Honeypot hosted in Azure and monitored with Microsoft Sentinel](https://github.com/ManuelDogbatse/azure_sentinel_honeypot)
 
 - Networking with Windows:
 
