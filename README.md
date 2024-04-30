@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Manuel!
 
-I am an aspiring cybersecurity engineer with an educational background in Computer Science and software development.
+I am an aspiring desktop support technician with an educational background in Computer Science and software development.
 
-## 🔐 My Cybersecurity Projects
+## 🔐 My IT Projects
 
 - Cloud Computing:
 
