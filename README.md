@@ -21,6 +21,10 @@ I am an aspiring desktop support technician with an educational background in Co
   - [SSH Honeypot](https://github.com/ManuelDogbatse/ssh_honeypot)
 
   - [CLI Password Manager](https://github.com/ManuelDogbatse/password_manager)
+ 
+- Red Teaming:
+
+  - [TryHackMe CTFs](https://github.com/ManuelDogbatse/tryhackme_ctfs)
 
 ## 🗣️ Get in Touch
 [<img align="left" alt="Manuel Dogbatse LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />](https://linkedin.com/in/manuel-dogbatse)
