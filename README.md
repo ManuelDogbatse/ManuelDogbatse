@@ -27,4 +27,4 @@ I am an aspiring desktop support technician with an educational background in Co
   - [TryHackMe CTFs](https://github.com/ManuelDogbatse/tryhackme_ctfs)
 
 ## 🗣️ Get in Touch
-[<img align="left" alt="Manuel Dogbatse LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />](https://linkedin.com/in/manuel-dogbatse)
+[LinkedIn](https://linkedin.com/in/manuel-dogbatse)
